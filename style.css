@@ -1,0 +1,60 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    width: 1020px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    display: flex;
+    margin: 0px auto;
+}
+#genre{
+    color: #565959;
+}
+
+#front{
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img{
+    height: 473px;
+    width: 400px;
+    box-shadow: 0px 2px 5px lightgray;
+
+}
+
+#about{
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.title{
+    padding-bottom: 10px;
+}
+
+a{
+    color: #007185;
+}
+
+#rating{
+    padding-bottom: 10px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+p{
+    padding-bottom: 10px;
+}
+
+
